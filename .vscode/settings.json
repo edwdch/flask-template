@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "loguru"
+  ],
+  "python.formatting.provider": "black",
+  "python.languageServer": "Pylance",
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.tabSize": 4
+}
