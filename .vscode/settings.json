@@ -1,6 +1,8 @@
 {
   "cSpell.words": [
-    "loguru"
+    "conda",
+    "loguru",
+    "pyyaml"
   ],
   "python.formatting.provider": "black",
   "python.languageServer": "Pylance",
