@@ -2,10 +2,8 @@ name: flask-template
 channels:
   - conda-forge
 dependencies:
-  - yapf=0.32.0
   - flask=2.2.2
   - loguru=0.6.0
   - python=3.10.6
   - pyyaml=6.0
   - waitress=2.1.2
-  - yaml=0.2.5
