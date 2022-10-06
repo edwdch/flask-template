@@ -2,7 +2,7 @@ name: flask-template
 channels:
   - conda-forge
 dependencies:
-  - black=22.8.0
+  - yapf=0.32.0
   - flask=2.2.2
   - loguru=0.6.0
   - python=3.10.6
